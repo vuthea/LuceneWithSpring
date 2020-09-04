@@ -5,5 +5,3 @@ This project include:
 - Spring framework JDBC 
 - Pagination
 - For SQL please check in folder resources
-
-Demo : http://1.246.219.166:8080/universitypro/
